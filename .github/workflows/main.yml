@@ -1,5 +1,4 @@
-name: localrepo Deployment
-
+name: localrepo
 on:
   push:
     branches:
